@@ -1,6 +1,7 @@
 
 <h1 align="center">
   <br>
+  <img alt="HTML5" src="./animation_lmxn3l7k_small.gif" />
   <br>
   MrRoot
 </h1>
