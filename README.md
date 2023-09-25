@@ -5,7 +5,7 @@
 
 <h4 align="center">I am Mohsin, I am happy if you follow my projects</h4>
 
-## My Skills Broooo :basecampy:
+## # My Skills Broooo :basecampy:
 
 <p>
 
@@ -21,7 +21,7 @@
 
 </p>
 
-## My social networks 📱
+## # My social networks 📱
 <a href="https://instagram.com/mrroot.ir">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
