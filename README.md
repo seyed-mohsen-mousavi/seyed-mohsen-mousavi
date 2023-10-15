@@ -3,7 +3,7 @@
   MrRoot
 </h1>
 
-<h4 align="center">I am Mohsin, I am happy if you follow my projects</h4>
+<h4 align="center">I am Mohsen, I am happy if you follow my projects</h4>
 
 ## # My Skills Broooo :basecampy:
 
