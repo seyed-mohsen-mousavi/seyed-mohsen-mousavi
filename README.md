@@ -1,4 +1,7 @@
-
+<style>
+  h1{
+    color:red;
+</style>
 <h1 align="center">
   MrRoot
 </h1>
@@ -22,9 +25,12 @@
 </p>
 
 ## # My social networks 📱
-<a href="https://instagram.com/mrroot.ir">
+<div>
+  <a href="https://instagram.com/mrroot.ir"  target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a><a target="_blank" href="https://uiverse.io/profile/seyed-mohsen-mousavi">
+    <img alt="Instagram" src="https://img.shields.io/badge/uiverse-%23E4405F.svg?style=for-the-badge&logo=uiverse.oi&logoColor=black" />
 </a>
-
+</div>
 <h2 align="center" >Good Luck ✈️</h2>
 <br>
