@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝓢.𝓶𝓸𝓱𝓼𝓮𝓷</h1>
+<h1 align="center">Hey  👋, I'm 𝓢.𝓶𝓸𝓱𝓼𝓮𝓷</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyed-mohsen-mousavi&label=Profile%20views&color=0e75b6&style=flat" alt="seyed-mohsen-mousavi" /> </p>
