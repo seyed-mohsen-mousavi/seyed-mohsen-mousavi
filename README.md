@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/seyed-mohsen-mousavi?tab=repositories](https://github.com/seyed-mohsen-mousavi?tab=repositories)
 
-- 💬 Ask me about **js,react,tailwind,other**
+- 💬 Ask me about **js,netxjs,react,tailwind,other**
 
 - 📫 How to reach me **1mr.rooter3@gmail.com**
 
