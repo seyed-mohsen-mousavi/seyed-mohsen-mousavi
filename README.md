@@ -14,7 +14,6 @@
 <a href="https://stackoverflow.com/users/23340873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23340873" height="30" width="40" /></a>
 <a href="https://instagram.com/mrroot.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrroot.ir" height="30" width="40" /></a>
 </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="xseyed" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/xseyed?trk=profile-badge">seyed mohsen</a></div>
               
 <h3 align="left">Languages and Tools:</h3>
